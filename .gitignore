@@ -1,2 +1,5 @@
 Exploration/Ex04/models/*.h5
 GoingDeeper/GD01/ckpoints
+GoingDeeper/GD07/logs
+GoingDeeper/GD07/results
+GoingDeeper/GD07/wandb
